@@ -11,7 +11,7 @@ Python
 4. OS
 5. numpy
 
-##Dataset used
+##Dataset used: 
 Open sources images from the internet were used to train the model. You too can just download a bunch of images from the internet or use your own dataset to train the model.
 
 Export the model so that you can use it.
